@@ -10,11 +10,13 @@
 img {
   border-radius: 100px;
 }
-
 #subtitle {
   text-align: center;
 }
-
 #link {
   text-align: center;
+}
+#subscribebutton {
+    text-align: center;
+    padding: 20px 0; 
 }
